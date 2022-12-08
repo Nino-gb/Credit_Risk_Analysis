@@ -17,7 +17,8 @@ SMOTE:
 ![Screenshot 2022-12-07 at 11 54 34 PM](https://user-images.githubusercontent.com/110786136/206368511-a2d9ce6c-431a-4a4f-b477-8d76f067f20c.png)
 
 ClusterCentroids: 
-![Screenshot 2022-12-07 at 11 55 53 PM](https://user-images.githubusercontent.com/110786136/206368670-c27c31ba-1205-499e-8f71-ad0f68b874f6.png)
+![Screenshot 2022-12-08 at 12 04 52 AM](https://user-images.githubusercontent.com/110786136/206369934-4836c29f-1fbb-44f8-a716-7a39c6e47741.png)
+
 
 EasyEnsembleClassifer: ![Screenshot 2022-12-07 at 11 58 06 PM](https://user-images.githubusercontent.com/110786136/206369021-f77cf424-eacf-4bc1-a60a-55fd93bfb13f.png)
 
@@ -29,4 +30,5 @@ SMOTEENN:
 ![Screenshot 2022-12-07 at 11 56 50 PM](https://user-images.githubusercontent.com/110786136/206368831-316c5330-5f38-45b8-8e12-966ee558edef.png)
 
 ## Summary:
+
 
