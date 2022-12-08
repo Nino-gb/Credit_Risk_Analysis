@@ -7,6 +7,7 @@ Apply machine learning to solve a real-world credit card risk analysis. We will 
 
 ## Results:
 Credit card credit dataset (LoanStats_2019Q1.csv) hold 115,675 loan applications. All null values columnd and row were drpped.This reduced the dataset to 68,817 total . We used the "loan status" to determine whether the application was considered "low" or "high" risk. 
+
 ![Screenshot 2022-12-07 at 11 41 04 PM](https://user-images.githubusercontent.com/110786136/206366850-7f09124f-34cd-45b3-b24a-7eb7c8f79e9a.png)
 
 Balance accuracy score and the precision and recall scores of all six machine learning models; 
@@ -19,16 +20,13 @@ SMOTE:
 ClusterCentroids: 
 ![Screenshot 2022-12-08 at 12 04 52 AM](https://user-images.githubusercontent.com/110786136/206369934-4836c29f-1fbb-44f8-a716-7a39c6e47741.png)
 
-
-EasyEnsembleClassifer: ![Screenshot 2022-12-07 at 11 58 06 PM](https://user-images.githubusercontent.com/110786136/206369021-f77cf424-eacf-4bc1-a60a-55fd93bfb13f.png)
+SMOTEENN: 
+![Screenshot 2022-12-07 at 11 56 50 PM](https://user-images.githubusercontent.com/110786136/206368831-316c5330-5f38-45b8-8e12-966ee558edef.png)
 
 BalancedRandomForestClassifer:
 ![Screenshot 2022-12-07 at 11 59 18 PM](https://user-images.githubusercontent.com/110786136/206369183-4f0aafe4-c2be-4a3a-b61a-f72d17543132.png)
 
-
-SMOTEENN: 
-![Screenshot 2022-12-07 at 11 56 50 PM](https://user-images.githubusercontent.com/110786136/206368831-316c5330-5f38-45b8-8e12-966ee558edef.png)
+EasyEnsembleClassifer: ![Screenshot 2022-12-07 at 11 58 06 PM](https://user-images.githubusercontent.com/110786136/206369021-f77cf424-eacf-4bc1-a60a-55fd93bfb13f.png)
 
 ## Summary:
-
-
+ EasyEsembleClassifer method is the best accuracy score with a .93% meaning that the model was correct 77.6% of the time.
