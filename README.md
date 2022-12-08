@@ -28,14 +28,5 @@ BalancedRandomForestClassifer:
 SMOTEENN: 
 ![Screenshot 2022-12-07 at 11 56 50 PM](https://user-images.githubusercontent.com/110786136/206368831-316c5330-5f38-45b8-8e12-966ee558edef.png)
 
-
-
-
-
-
-There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
-
-
-
 ## Summary:
 
